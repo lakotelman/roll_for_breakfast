@@ -33,7 +33,7 @@ let response = computed(() => {
     <h1>Roll For Breakfast</h1>
   </header>
   <section class="prose">
-    <button @click="generateRandom()">Let's Roll</button>
+    <button @click="generateRandom()" class="hover-effect">Let's Roll</button>
     <div v-if="response === null && roll === null">
       <h2 style="text-align: center">What will it be??</h2>
     </div>
@@ -72,7 +72,7 @@ button {
 
 #dice-pattern {
   background-image: url("../src/assets/repeat-d20.svg");
-  background-size: clamp(50px, 10%, 10%);
+  background-size: 10%;
   position: absolute;
   left: 50%;
   top: 0px;

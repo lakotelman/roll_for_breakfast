@@ -78,8 +78,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-p{
-  margin-bottom: 15px
+p {
+  margin-bottom: 15px;
 }
 
 .prose {
@@ -89,24 +89,85 @@ p{
   flex-direction: column;
 }
 
-h1, h2 {
+h1, h2, h3 {
   font-family: var(--heading-deco-font);
-  font-size: clamp(42px, 10vw, 5rem);
   font-weight: 700;
   margin: 0px;
   line-height: 1;
 }
 
+h1{ 
+  font-size: clamp(42px, 10vw, 5rem);
+  
+}
+
+h2{ 
+  font-size: clamp(36px, 9vw, 4rem);
+
+}
+
 button {
   border: 0px;
   font-family: var(--heading-deco-font);
-  font-size: clamp(20px, 8vw, 3rem);
-  width: max-content;
-  line-height: 0.5;
-  padding: 20px;
-  background-color: var(--rfb-yellow);
-  border-radius: 10px;
+  font-size: 3rem;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 50px 8px 50px;
+  background-color: #fff;
+  border: 2px solid #000;
+  border-radius: 20px;
+  transition: all 200ms linear;
+  position: relative;
+  overflow: hidden;
+  &:after {
+    content: "";
+    display: block;
+    height: 15px;
+    background-image: repeating-linear-gradient(
+      122deg,
+      #e87080 12.5%,
+      #e34659 12.5%,
+      #e34659 25%,
+      #e9b021 25%,
+      #e9b021 37.5%,
+      #138e97 37.5%,
+      #138e97 50%,
+      #e87080 50%,
+      #e87080 62.5%,
+      #e34659 62.5%,
+      #e34659 75%,
+      #e9b021 75%,
+      #e9b021 87.5%,
+      #138e97 87.5%,
+      #138e97 100%
+    );
+    position: absolute;
+    bottom: 0px;
+    border-top: 2px solid #000;
+    width: 100%;
+    left: 0;
+    right: 0;
+    min-width: 500px;
+    background-size: 100px;
+    will-change: background-position;
+    animation: pan 8s infinite linear forwards;
+  }
   &:hover {
     cursor: pointer;
+    color: #fff;
+    background-color: var(--rfb-teal);
+  }
+}
+
+button:not(:hover)::after{ 
+ animation-play-state: paused;
+}
+
+@keyframes pan {
+  0% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: 100% 0%;
   }
 }

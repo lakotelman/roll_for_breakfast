@@ -26,18 +26,21 @@ let response = computed(() => {
 
 <template>
   <div class="dice-wrapper wavy">
-      <div id="dice-pattern"></div>
-      <div id="dice-gradient-overlay"></div>
+    <div id="dice-pattern"></div>
+    <div id="dice-gradient-overlay"></div>
   </div>
   <header class="header-content">
     <h1>Roll For Breakfast</h1>
   </header>
   <section class="prose">
-    <button @click="generateRandom()">Roll</button>
+    <button @click="generateRandom()">Let's Roll</button>
+    <div v-if="response === null && roll === null">
+      <h2 style="text-align: center">What will it be??</h2>
+    </div>
     <div class="" v-if="response !== null">
-      <h2 v-if="roll !== null" style="text-align: center;">{{roll }}</h2>
+      <h2 v-if="roll !== null" style="text-align: center">{{ roll }}</h2>
       <p class="label">You are having:</p>
-      <p> {{ response?.Description }}</p>
+      <p>{{ response?.Description }}</p>
       <p class="label">The effect is:</p>
       <p>{{ response?.Effect }}</p>
     </div>
@@ -53,18 +56,18 @@ let response = computed(() => {
     background-position: 100% 0%;
   }
 }
-.prose{ 
+.prose {
   position: relative;
-  top: -30px
+  top: -30px;
 }
-button{ 
+button {
   margin: 0px auto;
-  margin-bottom: 30px
+  margin-bottom: 30px;
 }
 
-.label{ 
+.label {
   font-weight: 900;
-  margin-bottom: 5px
+  margin-bottom: 5px;
 }
 
 #dice-pattern {
@@ -107,13 +110,18 @@ button{
   position: relative;
   z-index: 3;
   background-color: #fff;
+  border: 2px solid #000;
   height: max-content;
   width: max-content;
   padding: 1rem 1.5rem;
-  border-radius: 360px;
+  border-radius: 30px;
   top: -80px;
   margin: 0px auto;
-  box-shadow: 0px 0px 0px 10px #E34659,0px 0px 0px 20px #E87080,15px 15px 0px 15px #E9B021,-15px -15px 0px 15px #138E97;
+  box-shadow:
+    0px 0px 0px 10px #e34659,
+    0px 0px 0px 20px #e87080,
+    15px 15px 0px 15px #e9b021,
+    -15px -15px 0px 15px #138e97;
 }
 
 .wavy {
@@ -123,8 +131,8 @@ button{
         #0000 101%
       )
       calc(50% - 80px) 0/160px 100%,
-    radial-gradient(80.62px at 50% calc(100% + 70px), #0000 99%, #000000 101%) 50%
-      calc(100% - 40px) / 160px 100% repeat-x;
+    radial-gradient(80.62px at 50% calc(100% + 70px), #0000 99%, #000000 101%)
+      50% calc(100% - 40px) / 160px 100% repeat-x;
   mask: var(--mask);
   -webkit-mask: var(--mask);
 }

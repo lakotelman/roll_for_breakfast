@@ -38,7 +38,7 @@ let response = computed(() => {
       <h2 style="text-align: center">What will it be??</h2>
     </div>
     <div class="" v-if="response !== null">
-      <h2 v-if="roll !== null" style="text-align: center">{{ roll }}</h2>
+      <h2 v-if="roll !== null" style="text-align: center">{{ roll }}/100</h2>
       <p class="label">You are having:</p>
       <p>{{ response?.Description }}</p>
       <p class="label">The effect is:</p>
@@ -72,7 +72,7 @@ button {
 
 #dice-pattern {
   background-image: url("../src/assets/repeat-d20.svg");
-  background-size: clamp(50px, 10%, 100%);
+  background-size: clamp(50px, 10%, 10%);
   position: absolute;
   left: 50%;
   top: 0px;

@@ -1,4 +1,6 @@
 /* color palette from <https://github.com/vuejs/theme> */
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Righteous&display=swap");
+
 :root {
   --vt-c-white: #ffffff;
   --vt-c-white-soft: #f8f8f8;
@@ -19,6 +21,12 @@
   --vt-c-text-light-2: rgba(60, 60, 60, 0.66);
   --vt-c-text-dark-1: var(--vt-c-white);
   --vt-c-text-dark-2: rgba(235, 235, 235, 0.64);
+  --rfb-pink: #e87080;
+  --rfb-fuchsia: #e34659;
+  --rfb-fuchsia-dark: #d43b4d;
+  --rfb-yellow: #e9b021;
+  --rfb-teal: #138e97;
+  --heading-deco-font: "Dongle", sans-serif;
 }
 
 /* semantic color variables for this project */
@@ -60,27 +68,45 @@
 
 body {
   min-height: 100vh;
-  color: var(--color-text);
-  background: var(--color-background);
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   transition:
     color 0.5s,
     background-color 0.5s;
-  line-height: 1.6;
-  font-family:
-    Inter,
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    Oxygen,
-    Ubuntu,
-    Cantarell,
-    'Fira Sans',
-    'Droid Sans',
-    'Helvetica Neue',
-    sans-serif;
-  font-size: 15px;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+p{
+  margin-bottom: 15px
+}
+
+.prose {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+h1, h2 {
+  font-family: var(--heading-deco-font);
+  font-size: clamp(42px, 10vw, 5rem);
+  font-weight: 700;
+  margin: 0px;
+  line-height: 1;
+}
+
+button {
+  border: 0px;
+  font-family: var(--heading-deco-font);
+  font-size: clamp(20px, 8vw, 3rem);
+  width: max-content;
+  line-height: 0.5;
+  padding: 20px;
+  background-color: var(--rfb-yellow);
+  border-radius: 10px;
+  &:hover {
+    cursor: pointer;
+  }
 }

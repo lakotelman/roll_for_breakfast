@@ -1,0 +1,402 @@
+{
+  "1": {
+    "Description": "A single poached egg with a perfectly runny yolk and flaky salt",
+    "Effect": "Positive: The runny egg is cooked to perfection and reminds you to be fluid and easy going, you gain a +1 to charisma skill checks for the next day or until your next short rest."
+  },
+  "2": {
+    "Description": "A single poached egg with a perfectly runny yolk and flaky salt",
+    "Effect": "Negative: Unfortunately it arrived cold. Your disappointment is immeasurable and your day is ruined. Take -1 to dexterity checks for the next 1d4 hours or your next short rest as your reaction times are slowed by sadness."
+  },
+  "3": {
+    "Description": "Two simple scrambled eggs with toast and butter",
+    "Effect": "Positive: The scrambled eggs scoop so nicely on the toast. Today is going to be a dexterous day. You gain a +1 to sleight of hand checks."
+  },
+  "4": {
+    "Description": "Two simple scrambled eggs with toast and butter",
+    "Effect": "Negative: The toast was too toasty. Crumbs are everywhere make you look a mess. You have -1 to intimidation checks in this disheveled, crumbly state."
+  },
+  "5": {
+    "Description": "A single hard boiled egg sitting lonely in its egg cup. You’re uncertain what kind of egg it is.",
+    "Effect": "Positive: It’s a hearty griffon egg. You gain +1 to AC until your next short rest."
+  },
+  "6": {
+    "Description": "A single hard boiled egg sitting lonely in its egg cup. You’re uncertain what kind of egg it is.",
+    "Effect": "Negative: Whatever kind of egg it is, it’s rotten and upsets your tummy. You’re vulnerable to poison damage until your next short rest."
+  },
+  "7": {
+    "Description": "Two Sunny side up eggs sitting on a bed of rice with a strip of bacon smile.",
+    "Effect": "Positive: That little face in the bowl looks so happy that you can’t help but smile back. Gain +1 to persuasion checks until your next short rest."
+  },
+  "8": {
+    "Description": "Two Sunny side up eggs sitting on a bed of rice with a strip of bacon smile.",
+    "Effect": "Negative: You put your spoon in to eat and it turns to a frowny face. Well this sucks. Your sad mood makes you take your next skill check at disadvantage."
+  },
+  "9": {
+    "Description": "A neatly cooked over-easy egg atop a slice of avocado toast.",
+    "Effect": "Positive: Hearty, rich, and delicious. Classic for a reason. +1 to Constitution saving throws until your next short rest."
+  },
+  "10": {
+    "Description": "A neatly cooked over-easy egg atop a slice of avocado toast.",
+    "Effect": "Negative: The fat from the butter and avocado has given you a bit of gas. You have a -1 to stealth checks for the next hour."
+  },
+  "11": {
+    "Description": "A scotch egg with fennel sausage and and rosemary breadcrumbs. Served with roasted tomato",
+    "Effect": "Positive: It is a symphony of delicious nutrients and flavors. +5 movement speed until your next short rest."
+  },
+  "12": {
+    "Description": "A scotch egg with fennel sausage and and rosemary breadcrumbs. Served with roasted tomato",
+    "Effect": "Negative: It was pretty tasty, but the sausage was a mystery meat. Your mouth feels hot. Roll a d6 when you speak. If you roll a 1, you breathe s burst of fire in a 10 foot cone. Effect lasts until your next short rest."
+  },
+  "13": {
+    "Description": "Forrest Grotto Omelette: a delicate blend of golden eggs, wild mushrooms, and fresh spinach, garnished with sun-dried tomatoes.",
+    "Effect": "Positive: These mushrooms were pretty special! You can speak with plants for the next 1d4 hours or until your next short rest."
+  },
+  "14": {
+    "Description": "Forrest Grotto Omelette: a delicate blend of golden eggs, wild mushrooms, and fresh spinach, garnished with sun-dried tomatoes.",
+    "Effect": "Negative: The mushrooms are angry with you for eating them and have cursed you. Plants will whisper hostile insults for the next 1d4 hours or until your next short rest."
+  },
+  "15": {
+    "Description": "Cloud Eggs which have taken the egg whites, whipped them added parmesan and baked with the golden yolk floating on top.",
+    "Effect": "Positive: The fluffy texture gives you a feeling as light as air. You feel lithe and nimble and take ½ damage from any falling until your next long rest."
+  },
+  "16": {
+    "Description": "Cloud Eggs which have taken the egg whites, whipped them added parmesan and baked with the golden yolk floating on top.",
+    "Effect": "Negative: The air in the egg seems to have gone to your head. You seem unfocused, a little ditzy even. You have a -1 to perception checks until your next short rest."
+  },
+  "17": {
+    "Description": "Ray of Frosted Flakes: A bowl of cereal with a delightfully sugary coating.",
+    "Effect": "Positive: The cereal box has a set of instructions and a little piece of paper on it to do a cool trick. You can cast Ray of Frost one time today before your next long rest."
+  },
+  "18": {
+    "Description": "Ray of Frosted Flakes: A bowl of cereal with a delightfully sugary coating.",
+    "Effect": "Negative: The sugary texture is too much for the roof of your mouth. Take 1d4 slashing damage"
+  },
+  "19": {
+    "Description": "Oblivi-Ohs: A seemingly basic cereal in the shape of little loops.",
+    "Effect": "Positive: There seems to be a strange taste to these. Maybe it’s a potion? Regardless, you’re able to hear the surface thoughts of the person immediately to your left for 1d4 hours."
+  },
+  "20": {
+    "Description": "Oblivi-Ohs: A seemingly basic cereal in the shape of little loops.",
+    "Effect": "Negative: The strange taste to these might be a poison of some kind? You become forgetful and make history and nature checks with a -1."
+  },
+  "21": {
+    "Description": "Golden Dragon Grahams: A rectangular cereal that combines a honey and chili flavor.",
+    "Effect": "Positive: Fun facts about dragons on the box! For example, the average adult Dragon produces a gallon of saliva every hour. You feel like a naturalist. Gain +1 to nature and survival checks until your next short rest."
+  },
+  "22": {
+    "Description": "Golden Dragon Grahams: A rectangular cereal that combines a honey and chili flavor.",
+    "Effect": "Negative: The spice is a bit much, causing you to salivate and have a runny nose. You take a -1 to intimidation and persuasion checks until your next short rest."
+  },
+  "23": {
+    "Description": "Second Breakfast Oats: This bowl of oatmeal has it all: nuts, fruit, yogurt, with a sprinkle of sugar.",
+    "Effect": "Positive: Second breakfast is the most important meal of the day. You feel fortified and resilient. Gain 1d4 temporary hit points for the next 1d4 hours."
+  },
+  "24": {
+    "Description": "Second Breakfast Oats: This bowl of oatmeal has it all: nuts, fruit, yogurt, with a sprinkle of sugar.",
+    "Effect": "Negative: This is the most fiber you have consumed in a tenday. You immediately rush to the next bathroom."
+  },
+  "25": {
+    "Description": "Arcane Trix: A fun, obscenely colorful cereal with a fruity flavor.",
+    "Effect": "Positive: These little cereals give you the ability to cast 3 illusory, fire-fly like motes of randomly colored light today. Motes cast 5 feet of dim light"
+  },
+  "26": {
+    "Description": "Arcane Trix: A fun, obscenely colorful cereal with a fruity flavor.",
+    "Effect": "Negative: The trick was getting you to eat them. For the next 1d4 hours or until your next long rest. Anything you try to pick up slips through your hands."
+  },
+  "27": {
+    "Description": "Stone Giant Ground Grits: Cooked to perfection with cheddar cheese and butter.",
+    "Effect": "Positive: Gratitude for the Stone Giant’s strength inspires you. You gain +1 to all Strength based checks for the next 1d4 hours."
+  },
+  "28": {
+    "Description": "Stone Giant Ground Grits: Cooked to perfection with cheddar cheese and butter.",
+    "Effect": "Negative: Didn’t expect rocks in your grits? Take one 1d4 bludgeoning damage to your teeth"
+  },
+  "29": {
+    "Description": "Patron Puffs nutritious, chocolate-y corn puffs take on the shape of the various patron gods and deities",
+    "Effect": "Positive: After eating this you are filled with wisdom and inspiration from gods and goddesses. Make wisdom based checks and saves with advantage for the next 1d4 hours"
+  },
+  "30": {
+    "Description": "Patron Puffs nutritious, chocolate-y corn puffs take on the shape of the various patron gods and deities",
+    "Effect": "Negative: Woah that is a lot of divine voices in your head, beckoning you to take a pledge. Take 1d4 psychic damage."
+  },
+  "31": {
+    "Description": "Chex Monster Mix: a mildly sweetened concoction of different cereals with fun little monster shapes.",
+    "Effect": "Positive: There is a toy in every box! Flip through to a random page in the MM to find what it is."
+  },
+  "32": {
+    "Description": "Chex Monster Mix: a mildly sweetened concoction of different cereals with fun little monster shapes.",
+    "Effect": "Negative: There is a toy in every box! Flip through to a random page in the MM to find what it is. Unfortunately, the monster toy is animated and runs away."
+  },
+  "33": {
+    "Description": "Flay-sin Bran This mind-stimulating cereal is a staple in most illithid households.",
+    "Effect": "Positive: Mind stimulating indeed. You have advantage on magical saving throws for the next day."
+  },
+  "34": {
+    "Description": "Flay-sin Bran This mind-stimulating cereal is a staple in most illithid households.",
+    "Effect": "Negative: You begin to experience memories that are not your own for the next 10 minutes"
+  },
+  "35": {
+    "Description": "Elven Lembas Toast with Butter: In its classic leaf wrapping, this bread looks like a stale cracker.",
+    "Effect": "Positive: This bread actually tastes delicious and fills you with vitality. You gain 10 extra movement speed for the next 1d4 hours."
+  },
+  "36": {
+    "Description": "Elven Lembas Toast with Butter: In its classic leaf wrapping, this bread looks like a stale cracker.",
+    "Effect": "Negative: And it tastes like a stale cracker too. Your mouth is so dry that you need water immediately or begin coughing uncontrollably."
+  },
+  "37": {
+    "Description": "Gnomish Bagel toasted to perfection with a sweet cream Cheese",
+    "Effect": "Positive: The gnomes who made this really put some love into it. You understand gnomish for the next day."
+  },
+  "38": {
+    "Description": "Gnomish Bagel toasted to perfection with a sweet cream Cheese",
+    "Effect": "Negative: Scallion cream cheese is pretty tasty but onion breath is not a good way to make friends. -1 to persuasion"
+  },
+  "39": {
+    "Description": "Mermalade Toast: just a classic slice of toast with some seaweed and strawberry jam",
+    "Effect": "Positive: The seaweed has a special property! You can breath underwater for the next 1d4 hours or until your next short rest."
+  },
+  "40": {
+    "Description": "Mermalade Toast: just a classic slice of toast with some seaweed and strawberry jam",
+    "Effect": "Negative: This jam is as weird as it sounds. You have a fishy aftertaste in your mouth that makes it very difficult to concentrate on anything. You take disadv"
+  },
+  "41": {
+    "Description": "Honey Biscuits: Cut into perfect little rounds, the butter is salty and the honey is sticky sweet.",
+    "Effect": "Positive: More honey sourced from some local bees. You have the ability to communicate with the little guys for the next 1d6 hours or until your next short rest."
+  },
+  "42": {
+    "Description": "Honey Biscuits: Cut into perfect little rounds, the butter is salty and the honey is sticky sweet.",
+    "Effect": "Negative: That honey is a bit TOO sticky. You everything you touch sticks to your fingers for the next 1d4 hours or until you wash your hands you nasty."
+  },
+  "43": {
+    "Description": "Classic whole wheat toast. It’s classic for a reason. Bit dry.",
+    "Effect": "Positive: This toast fills you with the fortitude to have a wonderfully strong day and soak up all number of poisons. You gain +1 to constitution saving throws until your next long rest."
+  },
+  "44": {
+    "Description": "Classic whole wheat toast. It’s classic for a reason. Bit dry.",
+    "Effect": "Negative: The dryness soaks all the moisture out of your mouth and scratches your hard palette. You struggle to speak louder than a hoarse whisper for the next 1d4 hours or until your next short rest."
+  },
+  "45": {
+    "Description": "A butter croissant with perfectly laminated layers of dough and butter.",
+    "Effect": "Positive: The butter is so smooth it gives you an inspired feeling. You’re a smooth person too. You can now cast Friends one time before your next long rest."
+  },
+  "46": {
+    "Description": "A butter croissant with perfectly laminated layers of dough and butter.",
+    "Effect": "Negative: There is so much butter all over your fingers. You have a -1 to sleight of hand and dex saving throws for the next 1d4 hours or until your next short rest."
+  },
+  "47": {
+    "Description": "Hearthfire Breakfast Casserole: farm-fresh eggs, golden potatoes, seasons sausage, cheese. Dash of paprika",
+    "Effect": "Positive: Delicious, nutritious and perfectly layered. You feel inspired just to think of it. Have one extra inspiration for the day (can stack on existing inspiration)"
+  },
+  "48": {
+    "Description": "Hearthfire Breakfast Casserole: farm-fresh eggs, golden potatoes, seasons sausage, cheese. Dash of paprika",
+    "Effect": "Negative: Who knows what farm those eggs came from? You have the sinking sense that it is someone who swears a vengeance for eating their young. You have the effects of bane for the next 1d4 hours or until your next short rest."
+  },
+  "49": {
+    "Description": "The Woodland Savory Scones: a delightful mix of sharp cheddar, fresh rosemary, and crispy bacon, baked into golden scones with a hint of black pepper and a sprinkle of sea salt",
+    "Effect": "Positive: This was actually made by wood elves. Eating this you begin to understand the connection to nature and can make stealth and survival checks with a +1."
+  },
+  "50": {
+    "Description": "The Woodland Savory Scones: a delightful mix of sharp cheddar, fresh rosemary, and crispy bacon, baked into golden scones with a hint of black pepper and a sprinkle of sea salt",
+    "Effect": "Negative: Woodland indeed, there was a bug in the dough. Make a con save of DC 10 or take 1d4 poison damage."
+  },
+  "51": {
+    "Description": "The Ranger's Jerky: strips of seasoned meat, marinated in a blend of smoky fire salts, dried to perfection over a drake’s fire for a bold and magical flavor",
+    "Effect": "Positive: You gain a shiny film over your eyes. You can see in the dark for 1d4 hours. If you already have darkvision, your perception in the dark increases by +1."
+  },
+  "52": {
+    "Description": "The Ranger's Jerky: strips of seasoned meat, marinated in a blend of smoky fire salts, dried to perfection over a drake’s fire for a bold and magical flavor",
+    "Effect": "Negative: That’s too peppery for you. You feel it in your nose and sneeze out flames. Everyone within 5ft of you takes 1d4 fire damage."
+  },
+  "53": {
+    "Description": "The Dwarven Forge Kolache: a golden pastry stuffed with crispy bacon, melted cave-aged cheese, and a hint of fire-roasted garlic, baked to perfection in the heart of a dwarven forge",
+    "Effect": "Positive: The dwarves really were on to something with more than just armor. But this reminds you that you should tweak your armor/defenses a bit. +1 to AC for the next 1d6 hours."
+  },
+  "54": {
+    "Description": "The Dwarven Forge Kolache: a golden pastry stuffed with crispy bacon, melted cave-aged cheese, and a hint of fire-roasted garlic, baked to perfection in the heart of a dwarven forge",
+    "Effect": "Negative: Too hot too hot! Your burn your tongue and have a funny lisp and have -1 to all charisma checks involving speaking for the next 1d4 hours or until your next long rest."
+  },
+  "55": {
+    "Description": "Coffee Cake that is buttery and crumbly with a sugary and cinnamony crust. Served with a shot of espresso",
+    "Effect": "Positive: Coffee coffee Coffee buzz buzz buzz you are lit up by the caffeine and gain +10 movement for the next 1d4 hours"
+  },
+  "56": {
+    "Description": "Coffee Cake that is buttery and crumbly with a sugary and cinnamony crust. Served with a shot of espresso",
+    "Effect": "Negative: Maybe eating dessert for breakfast was a bad idea. You have a tummy ache that reduces your movement speed by 5 for the next 1d4 hours or until your next short rest."
+  },
+  "57": {
+    "Description": "Fairy Yogurt Parfait: infused with honey, topped with wild forest berries and sprinkled with crystallized sugary granola",
+    "Effect": "Positive: The honey was locally sourced. You have a resistance to poison damage for the next day."
+  },
+  "58": {
+    "Description": "Fairy Yogurt Parfait: infused with honey, topped with wild forest berries and sprinkled with crystallized sugary granola",
+    "Effect": "Negative: The honey made you a bit sticky. Your speed is reduced by 5ft for the next 1d4 hours or until your short rest."
+  },
+  "59": {
+    "Description": "Spicy Crab Omelette: all the umami flavors first thing in the morning. Crab, avocado, soy sauce and green onion",
+    "Effect": "Positive: This was one powerful crab. You gain the benefits of blindsight for the next 1d4 hours."
+  },
+  "60": {
+    "Description": "Spicy Crab Omelette: all the umami flavors first thing in the morning. Crab, avocado, soy sauce and green onion",
+    "Effect": "Negative: Maybe we shouldn’t be eating this powerful of a crab? You begin to show signs of a glitching camouflage for the next 1d4 hours or until your next long rest. You take -1 to stealth checks."
+  },
+  "61": {
+    "Description": "Garden Hash Skillet: sizzling medley of roasted woodland vegetables, including sun-dried tomatoes, earthy mushrooms, and caramelized onions, seasoned with aromatic herbs and nestled among golden hash browns",
+    "Effect": "Positive: Maybe the mushrooms were magic? You have a divine sense of the future. At some point before your next long rest you can choose to change a roll to a 10."
+  },
+  "62": {
+    "Description": "Garden Hash Skillet: sizzling medley of roasted woodland vegetables, including sun-dried tomatoes, earthy mushrooms, and caramelized onions, seasoned with aromatic herbs and nestled among golden hash browns",
+    "Effect": "Negative: Whew those mushrooms were more than just a mere fungus. You start to see funny patterns and visions. Your perception is impaired for the next 1d4 hours or until your next short rest. Take -1 to all wisdom based checks."
+  },
+  "63": {
+    "Description": "Way of the Full Plate Breakfast: a pile of pancakes, chicken, bacon, and eggs with hollandaise sauce and maple syrup",
+    "Effect": "Positive: A medley of culinary arts have given you strength and speed. Take a +1 to all attacks for the next 1d4 hours or until your next short rest."
+  },
+  "64": {
+    "Description": "Way of the Full Plate Breakfast: a pile of pancakes, chicken, bacon, and eggs with hollandaise sauce and maple syrup",
+    "Effect": "Negative: Whew that was a big meal. Your bloat threatens to make you toot or burp at an inconvenient time. Roll all charisma based checks at disadvantage for the next 1d4 hours or until your next short rest. On failure, you let out a bit of gas."
+  },
+  "65": {
+    "Description": "Bugbear Breakfast Burrito: It’s bugbear sized. No pieces of actual bugbear. Just eggs, sausage, peppers, onion, potato, and some spicy salsa.",
+    "Effect": "Positive: Finally something that can satiate your appetite. Energy courses in your veins. You gain the benefits of Bless until your next short or long rest."
+  },
+  "66": {
+    "Description": "Bugbear Breakfast Burrito: It’s bugbear sized. No pieces of actual bugbear. Just eggs, sausage, peppers, onion, potato, and some spicy salsa.",
+    "Effect": "Negative: That was too much food. You’re so full. You are under the effect of Bane on athletics and acrobatics checks the next 1d4 hours or until your next short rest."
+  },
+  "67": {
+    "Description": "Goblin Style Biscuits & Gravy. You'll be goblin them down alright.",
+    "Effect": "Positive: The goblins really know how to make a gravy. You are reminded of their incredible dexterity and make all dex checks with a +1 for the next 1d4 hours or until your next short rest."
+  },
+  "68": {
+    "Description": "Goblin Style Biscuits & Gravy. You'll be goblin them down alright.",
+    "Effect": "Negative: Who knows how that sausage was made. You feel a strange sensation as you shrink one size smaller than you are for the next 1d4 hours or until your next short rest."
+  },
+  "69": {
+    "Description": "Purple Grung-Nuts. Become a real boss with this timeless cereal. Very crunchy. Served dry.",
+    "Effect": "Positive: The whole-grain crunch ofer +1 AC until their next short rest!"
+  },
+  "70": {
+    "Description": "Purple Grung-Nuts. Become a real boss with this timeless cereal. Very crunchy. Served dry.",
+    "Effect": "Negative: They are far too crunchy and you chip a tooth. Take 1d4 damage."
+  },
+  "71": {
+    "Description": "Kobold Crunch. Manifest your inner kobold with this spectacular crunchy cereal! The sweetened corn and oat biscuits are made to resemble various traps one would find in a dungeon.",
+    "Effect": "Positive: You lucky drake! Every 100 boxes has toy kobold that will rawr at your enemies and grant you +1 Intimidation one time. After use it becomes just a toy."
+  },
+  "72": {
+    "Description": "Kobold Crunch. Manifest your inner kobold with this spectacular crunchy cereal! The sweetened corn and oat biscuits are made to resemble various traps one would find in a dungeon.",
+    "Effect": "Negative: You lucky drake! Every 100 boxes has toy kobold that will rawr. But this one is defective and will likely rawr at the worst possible moment."
+  },
+  "73": {
+    "Description": "Cinnamon Swirl Pancakes. Buttermilk pancakes infused with a delicious cinnamon swirl, and topped with powdered sugar and cinnamon sugar icing.",
+    "Effect": "Positive: This treat makes you feel warm from the inside out. The cinnamon is a perfect balance and the sugar provides you with the energy needed to focus. You make intelligence checks with a +1 for the next 1d4 hours or until your next short rest."
+  },
+  "74": {
+    "Description": "Cinnamon Swirl Pancakes. Buttermilk pancakes infused with a delicious cinnamon swirl, and topped with powdered sugar and cinnamon sugar icing.",
+    "Effect": "Negative: This was just too much sugar. Your eyes are practically spinning out of your head and you can’t seem to focus on one thought! You make intelligence checks with a -1 for the next 1d4 hours or until your next short rest."
+  },
+  "75": {
+    "Description": "Black & White Pancakes. These mouthwatering buttermilk pancakes are filled and topped with white and milk chocolate chips, vanilla syrup, chocolate syrup, and topped with a dollop of whipped cream and powdered sugar.",
+    "Effect": "Positive: This sweet breakfast was expertly made with lots of love. It fills your heart as well as your stomach. You make all friendly charisma checks with advantage for the next 1d6 hours or until your next long rest."
+  },
+  "76": {
+    "Description": "Black & White Pancakes. These mouthwatering buttermilk pancakes are filled and topped with white and milk chocolate chips, vanilla syrup, chocolate syrup, and topped with a dollop of whipped cream and powdered sugar.",
+    "Effect": "Negative: The sugar hurts your teeth. Take 1d4 damage as you feel you might be getting a cavity."
+  },
+  "77": {
+    "Description": "Huevos Magos: Tortillas, Griffin eggs, a magical-tomato based chili-sauce, refried beans, rice, avocado or guacamole and a big ol ' slab of medium-rare Baloth Flank Steak",
+    "Effect": "Positive: The griffin eggs are an excellent source of nutrients. Gain advantage on perception checks relying on sight for the next 1d4 hours."
+  },
+  "78": {
+    "Description": "Huevos Magos: Tortillas, Griffin eggs, a magical-tomato based chili-sauce, refried beans, rice, avocado or guacamole and a big ol ' slab of medium-rare Baloth Flank Steak",
+    "Effect": "Negative: This Baloth steak is kicking you in the gut. In fact, make a DC 10 strength save or be knocked prone."
+  },
+  "79": {
+    "Description": "Spicy Black Dragon Donut (cocoa powder, chili powder, and powdered sugar) in the shape of a dragon's horn with a thin sugar glaze and a surprisingly spicy kick.",
+    "Effect": "Positive: The spiky kick sticks around in your teeth. You get to cast a low level fire breath weapon today before your next short rest. 10ft cone; DC 10 dex save; 1d6 fire damage"
+  },
+  "80": {
+    "Description": "Spicy Black Dragon Donut (cocoa powder, chili powder, and powdered sugar) in the shape of a dragon's horn with a thin sugar glaze and a surprisingly spicy kick.",
+    "Effect": "Negative: That’s too spicy. You belch and a mote of fire comes out and ignites a nearby flammable object."
+  },
+  "81": {
+    "Description": "Pastry Braids filled with minced and roasted fruits. Apple filled braids are particular popular in this season",
+    "Effect": "Positive: And perfectly sweet the apples are. You’re feeling sweet yourself. You have +1 to persuasion checks for the next day."
+  },
+  "82": {
+    "Description": "Pastry Braids filled with minced and roasted fruits. Apple filled braids are particular popular in this season",
+    "Effect": "Negative: This season? Apples aren’t in season. They are underripe. Take 1d4 psychic damage for your being duped.."
+  },
+  "83": {
+    "Description": "Gelatinous cube flan traditionally made in square baking pan. The addition of gelatin helps the dish hold its signature shape.",
+    "Effect": "Positive: Looking at this reminds you that gelatinous cubes are actually really hard to see if they don’t move. You gain +1 to stealth while being very very still until your next long rest."
+  },
+  "84": {
+    "Description": "Gelatinous cube flan traditionally made in square baking pan. The addition of gelatin helps the dish hold its signature shape.",
+    "Effect": "Negative: Is the gelatin in this made from an actual gelatinous cube!? It feels like it’s burning your tongue. Take 1d4 acid damage"
+  },
+  "85": {
+    "Description": "Meat Dumplings, dumplings filled with various meats. Some enterprising creators crimp them to resemble a fat large lizard or dragon.",
+    "Effect": "Positive: Protein: a vital ingredient. You feel strong as a dragon. Make strength checks with a +1 for the next day."
+  },
+  "86": {
+    "Description": "Meat Dumplings, dumplings filled with various meats. Some enterprising creators crimp them to resemble a fat large lizard or dragon.",
+    "Effect": "Negative: Whew that was some dense mystery meat. You have some scales growing on the back of your hands and you feel a bit sluggish from eating the food. Make dexterity checks at -1 for 1d4 hours or your next long rest."
+  },
+  "87": {
+    "Description": "Peasant's breakfast', a barely-leavened flatbread that is split and stuffed with curried chickpeas and a chopped boiled egg.",
+    "Effect": "Positive: What a frugal but filling breakfast. You find an extra silver piece in your pocket!"
+  },
+  "88": {
+    "Description": "Peasant's breakfast', a barely-leavened flatbread that is split and stuffed with curried chickpeas and a chopped boiled egg.",
+    "Effect": "Negative: Looks like these were made with hydra eggs, your hair turns bright red and becomes twice as thick for the next 1d4 hours or until your next rest."
+  },
+  "89": {
+    "Description": "Vagrant’s Cake, a recipe passed down from Druid to Druid; barley flour, berries, sugar, eggs, goat butter and water, mixed finely and baked until golden.",
+    "Effect": "Positive: The druids were really on to something. You can cast Druidcraft one time today before your next short or long rest."
+  },
+  "90": {
+    "Description": "Vagrant’s Cake, a recipe passed down from Druid to Druid; barley flour, berries, sugar, eggs, goat butter and water, mixed finely and baked until golden.",
+    "Effect": "Negative: You begin to emit an odd musk from your skin, attracting wild animals to your location for 1d4 hours."
+  },
+  "91": {
+    "Description": "Angel food cake, a light and fluffy cake often glazed with a light lemon and sugar glaze. Tastes heavenly.",
+    "Effect": "Positive: This cake was imbued with celestial energy! Add 1d4 radiant damage to your next attack taken on this day."
+  },
+  "92": {
+    "Description": "Angel food cake, a light and fluffy cake often glazed with a light lemon and sugar glaze. Tastes heavenly.",
+    "Effect": "Negative: The sweetness leaves an ethereal aftertaste in your mouth. Or maybe it was just made with lots of rum. Make a DC 10 con save or be intoxicated for the next 1d4 hours."
+  },
+  "93": {
+    "Description": "Ankheg burrows, a thin but crispy chimney cake made by wrapping a thin strip of dough around a spool and coating the outside with oils and sugar before baking. Often filled with chocolate, nuts, or various fruits.",
+    "Effect": "Positive: This is hardly breakfast food, but damn if it’s not delicious and filling. You feel fortified! Take a +1 to AC until your next short or long rest."
+  },
+  "94": {
+    "Description": "Ankheg burrows, a thin but crispy chimney cake made by wrapping a thin strip of dough around a spool and coating the outside with oils and sugar before baking. Often filled with chocolate, nuts, or various fruits.",
+    "Effect": "Negative: Whew that is a sugar bomb. You take -1 to all constitution saving throws for the next 1d4 hours or until your next short rest."
+  },
+  "95": {
+    "Description": "A traveling gnome has a new fruit called 'Impression Berries'. This is a little bowl of these fruits.",
+    "Effect": "Positive: For the next day, you can mimic most simple sounds."
+  },
+  "96": {
+    "Description": "A traveling gnome has a new fruit called 'Impression Berries'. This is a little bowl of these fruits.",
+    "Effect": "Negative: For the next 1d4 hours (or until your next short rest) you are forced to speak the same as first person you look at after your first bite."
+  },
+  "97": {
+    "Description": "Thinly sliced fruit slices covered in hardened sugar and topped with honey.",
+    "Effect": "Positive: This hardened sugar reminds you of a well-crafted armor. You take a +1 to AC for the next day."
+  },
+  "98": {
+    "Description": "Thinly sliced fruit slices covered in hardened sugar and topped with honey.",
+    "Effect": "Negative: Whew this is a sweet treat in the morning. You gain a +1 initiative, but take a -1 to all checks regarding stillness"
+  },
+  "99": {
+    "Description": "Traditional English Breakfast; Sausage, Eggs, Tomatoes, and black pudding... While most of the meal is delicious, the blood used for the black pudding makes your mouth tingle with energy--did they use some sort of magical creature to make it?",
+    "Effect": "Positive: Was this black pudding made with Troll Liver? It is still regenerative? You gain 1d4 temporary HP."
+  },
+  "100": {
+    "Description": "Traditional English Breakfast; Sausage, Eggs, Tomatoes, and black pudding... While most of the meal is delicious, the blood used for the black pudding makes your mouth tingle with energy--did they use some sort of magical creature to make it?",
+    "Effect": "Negative: It’s still unclear what the beast was. What is clear is that you have a third eye on your head for the next 1d4 hours or until the next short rest. This eye gives you a bit of sensory overload and you take perception, insight and investigation rolls as disadvantage."
+  }
+}
